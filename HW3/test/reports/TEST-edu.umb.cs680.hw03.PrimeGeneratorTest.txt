@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw03.PrimeGeneratorTest
+Test: PrimesFrom1To10() took 19 milli sec(s)
+Test: InversePrimesTest() took 5 milli sec(s)
+Test: NegativePrimesTest() took 1 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 36 milli sec(s)

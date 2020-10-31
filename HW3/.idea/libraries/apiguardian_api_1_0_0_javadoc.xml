@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="apiguardian-api-1.0.0-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/apiguardian-api-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-jupiter-api-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-jupiter-engine-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-jupiter-params-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-platform-commons-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-platform-engine-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/opentest4j-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-jupiter-5.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-jupiter-api-5.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-jupiter-engine-5.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-jupiter-params-5.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-platform-commons-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-platform-engine-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-platform-launcher-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-platform-runner-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.junit-platform-suite-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/org.opentest4j-1.0.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/apiguardian-api-1.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/opentest4j-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/apiguardian-api-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-jupiter-api-5.4.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-jupiter-engine-5.4.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-jupiter-params-5.4.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-platform-commons-1.4.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/junit-platform-engine-1.4.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../Junit/opentest4j-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
