@@ -1,0 +1,5 @@
+Testcase: edu.umb.cs680.hw12.TimeStampComparatorTest
+Test: getFilesHomeTest() took 1 milli sec(s)
+Test: GetChildrenRootTest() took 0 milli sec(s)
+Test: getSubDirectoriesHomeTest() took 0 milli sec(s)
+Tests run: 3, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 2 milli sec(s)

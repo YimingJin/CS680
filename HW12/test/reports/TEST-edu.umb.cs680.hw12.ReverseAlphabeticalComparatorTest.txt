@@ -1,0 +1,10 @@
+Testcase: edu.umb.cs680.hw12.ReverseAlphabeticalComparatorTest
+Test: getFilesHomeTest() took 1 milli sec(s)
+Test: verifyDirectoryHome() took 0 milli sec(s)
+Test: verifyDirectoryRoot() took 0 milli sec(s)
+Test: verifyDirectoryApplications() took 0 milli sec(s)
+Test: GetChildrenHomeTest() took 0 milli sec(s)
+Test: GetChildrenRootTest() took 0 milli sec(s)
+Test: getSubDirectoriesRootTest() took 1 milli sec(s)
+Test: getFilesTestCode() took 0 milli sec(s)
+Tests run: 8, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 5 milli sec(s)
