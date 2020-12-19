@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw13.StockQuoteObservableTest
+Test: DstockQuoteTest() took 6 milli sec(s)
+Tests run: 1, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 6 milli sec(s)
+------------- Standard Output ---------------
+ ThreeDObserver: Ticker = Tom Quote = 100.0
+ Tablechart: Ticker = Tom Quote = 100.0
+ piechart: Ticker = Tom Quote: 100.0
+ ThreeDObserver: Ticker = Jim Quote = 200.0
+ Tablechart: Ticker = Jim Quote = 200.0
+ piechart: Ticker = Jim Quote: 200.0
+------------- ---------------- ---------------
