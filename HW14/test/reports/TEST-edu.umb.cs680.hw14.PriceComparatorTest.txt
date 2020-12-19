@@ -1,0 +1,4 @@
+Testcase: edu.umb.cs680.hw14.PriceComparatorTest
+Test: priceSorting() took 0 milli sec(s)
+Test: priceSortingWithComparatorComparing() took 0 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 2 milli sec(s)

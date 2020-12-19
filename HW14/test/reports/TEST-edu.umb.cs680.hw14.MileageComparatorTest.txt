@@ -1,0 +1,4 @@
+Testcase: edu.umb.cs680.hw14.MileageComparatorTest
+Test: mileageSortingWithComparatorComparing() took 12 milli sec(s)
+Test: mileageSorting() took 1 milli sec(s)
+Tests run: 2, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 32 milli sec(s)
